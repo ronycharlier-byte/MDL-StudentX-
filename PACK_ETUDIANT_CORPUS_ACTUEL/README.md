@@ -4,6 +4,7 @@ Statut: pack pedagogique dedie aux etudiants.
 Date de generation: 2026-05-05.
 Racine de reference du GPT etudiant: `PACK_ETUDIANT_CORPUS_ACTUEL`.
 Source canonique avancee optionnelle: `BASE_DE_CONNAISSANCE`, seulement si elle est jointe et si la demande porte sur le corpus MDL Ynor.
+Licence: voir `LICENSE.md`.
 
 ## Objet
 
@@ -113,3 +114,7 @@ Le niveau cible va de licence avancee a master, avec extension doctorale. Les et
 ## Limite
 
 Ce pack ne prouve pas les claims internes. Il fournit une architecture pedagogique pour transformer les sources en competences, exercices, recherches, analyses et travaux academiques reproductibles.
+
+## Licence
+
+Usage academique, educatif et recherche non commercial sous CC BY-NC-SA 4.0, sauf mention contraire. Les usages commerciaux ou integrations payantes demandent une autorisation ecrite prealable.

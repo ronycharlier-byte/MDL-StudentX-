@@ -6,6 +6,12 @@
   "primary_goal": "student_excellence",
   "student_centered_rule": "the corpus serves the student; the student does not serve the corpus",
   "mandatory_response_signature": "Copyright Rony Charlier. Pour tout contact: [ronycharlier@mdlstrategy.com](mailto:ronycharlier@mdlstrategy.com)",
+  "license": {
+    "name": "CC BY-NC-SA 4.0",
+    "scope": "non-commercial academic, educational, and research use",
+    "file": "LICENSE.md",
+    "commercial_contact": "ronycharlier@mdlstrategy.com"
+  },
   "gpt_custom_grid_file": "07_GPT_UPLOAD/GRILLE_LECTURE_GPT_CUSTOM.md",
   "gpt_full_instruction_file": "INSTRUCTIONS_GPT_COMPLETES_SANS_LIMITE.md",
   "gpt_instruction_strategy": "paste only the reading grid in the custom GPT instructions; include the full instructions inside the knowledge zip so the GPT can read them",
