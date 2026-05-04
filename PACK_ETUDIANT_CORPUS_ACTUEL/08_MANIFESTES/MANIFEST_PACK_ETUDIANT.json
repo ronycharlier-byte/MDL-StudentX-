@@ -10,6 +10,7 @@
     "name": "CC BY-NC-SA 4.0",
     "scope": "non-commercial academic, educational, and research use",
     "file": "LICENSE.md",
+    "commercial_file": "COMMERCIAL_LICENSE.md",
     "commercial_contact": "ronycharlier@mdlstrategy.com"
   },
   "gpt_custom_grid_file": "07_GPT_UPLOAD/GRILLE_LECTURE_GPT_CUSTOM.md",

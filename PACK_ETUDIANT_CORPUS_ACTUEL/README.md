@@ -5,6 +5,7 @@ Date de generation: 2026-05-05.
 Racine de reference du GPT etudiant: `PACK_ETUDIANT_CORPUS_ACTUEL`.
 Source canonique avancee optionnelle: `BASE_DE_CONNAISSANCE`, seulement si elle est jointe et si la demande porte sur le corpus MDL Ynor.
 Licence: voir `LICENSE.md`.
+Licence commerciale: voir `COMMERCIAL_LICENSE.md`.
 
 ## Objet
 
@@ -118,3 +119,5 @@ Ce pack ne prouve pas les claims internes. Il fournit une architecture pedagogiq
 ## Licence
 
 Usage academique, educatif et recherche non commercial sous CC BY-NC-SA 4.0, sauf mention contraire. Les usages commerciaux ou integrations payantes demandent une autorisation ecrite prealable.
+
+Contact commercial: ronycharlier@mdlstrategy.com
